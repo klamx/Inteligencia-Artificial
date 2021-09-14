@@ -1,4 +1,4 @@
-# Sistema Experto Simple
+# Sistema Experto Simple.
 
 [Ir a la pagina](https://sistema-experto-simple.netlify.app/)
 
